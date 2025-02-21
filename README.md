@@ -15,6 +15,7 @@ A serverless monitoring solution for multiple Supabase projects deployed on Verc
 - Node.js 14+
 - Vercel account
 - Supabase projects with `health_checks` table
+- Cron from Vercel
 
 ### Required Table Structure
 
