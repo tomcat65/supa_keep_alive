@@ -4,7 +4,8 @@
     "description": "Standalone monitoring for multiple Supabase projects",
     "main": "index.js",
     "scripts": {
-      "start": "node index.js"
+      "start": "node index.js",
+      "build":"node index.js"
     },
     "dependencies": {
       "@supabase/supabase-js": "^2.39.0",
