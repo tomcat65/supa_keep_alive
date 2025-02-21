@@ -3,7 +3,10 @@
     "version": "1.0.0",
     "description": "Standalone monitoring for multiple Supabase projects",
     "main": "index.js",
+    "type": "module",
     "scripts": {
+      "dev": "node index.js",
+      "build": "echo 'No build step required'",
       "start": "node index.js"
     },
     "dependencies": {
